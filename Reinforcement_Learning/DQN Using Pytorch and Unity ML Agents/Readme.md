@@ -5,7 +5,7 @@ In tne environment an agent is trained to navigate (and collect bananas!) in a l
 
 The files in the python/. directory are the ML-Agents toolkit files and dependencies required to run the Banana environment. For more information about the Unity ML-Agents Toolkit visit: 
 
-[url] https://github.com/Unity-Technologies/ml-agents [url]
+https://github.com/Unity-Technologies/ml-agents
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.
 

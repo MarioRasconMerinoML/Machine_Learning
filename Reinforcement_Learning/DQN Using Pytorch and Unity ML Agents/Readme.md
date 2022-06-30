@@ -1,3 +1,5 @@
+# Deep Q-Network (DQN) Reinforcement Learning using PyTorch and Unity ML-Agents
+
 This folder is dedicated to the implementation of the Unity ML-Agents within the Udacity Artificial Intelligence Nanodegree. Done in Pytorch.
 In tne environment an agent is trained to navigate (and collect bananas!) in a large, square world. 
 

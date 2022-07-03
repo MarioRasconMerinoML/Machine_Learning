@@ -38,5 +38,6 @@ For further details about DQN see: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, 
 
 https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf
 
- ![Example of agent performance (score) as a function of training episodes]( Machine_Learning/Reinforcement_Learning/DQN Using Pytorch and Unity ML Agents/Scores_plot_DQN.png )
+ ![Example of agent performance (score) as a function of training episodes]
+ (Machine_Learning/Reinforcement_Learning/DQN Using Pytorch and Unity ML Agents/Scores_plot_DQN.png)
 

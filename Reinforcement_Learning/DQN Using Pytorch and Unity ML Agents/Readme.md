@@ -22,8 +22,10 @@ The task is episodic, and in order to solve the environment, your agent must get
 The repository includes the following DQN related files:
 
     dqn_agent.py -> dqn-agent implementation
+    replay_memory.py -> dqn-agent's replay buffer implementation
     model.py -> example PyTorch neural network for vector based DQN learning
-    Navigation.ipynb -> initializes and implements the training processes for a DQN-agent.
+    train.py -> initializes and implements the training processes for a DQN-agent.
+    test.py -> testes a trained DQN-agent
 
 Code expanded and adapted from code examples provided by Udacity DRL Team, 2022.
 https://github.com/udacity/deep-reinforcement-learning#dependencies
@@ -36,5 +38,6 @@ For further details about DQN see: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, 
 
 https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf
 
- ![Example of agent performance (score) as a function of training episodes](Scores_plot_DQN.png)
+ ![Example of agent performance (score) as a function of training episodes]
+ (/DQN Using Pytorch and Unity ML Agents/Scores_plot_DQN.png)
 

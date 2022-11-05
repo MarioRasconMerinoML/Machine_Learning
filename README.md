@@ -1,4 +1,4 @@
-# Machine Learning, Deep Learning, IA and more
+# Machine Learning, Deep Learning, AI and more
 
 Tutorials and Notebooks around the usage of Scikit-Learn, Keras, Tensorflow and Pytorch to tackle ML / IA / RL projects
 

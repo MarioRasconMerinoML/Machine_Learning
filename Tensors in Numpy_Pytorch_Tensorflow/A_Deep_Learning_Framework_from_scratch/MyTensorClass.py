@@ -69,6 +69,7 @@ class MyTensorClass(object):
                                  new_edge = "add") # Type of new graph operation, add in this case
         return MyTensorClass(self.data + other.data)
     
+    ## Substraction
     def __substract__(self, other):
         return MyTensorClass(self.data - other.data)
     
@@ -114,7 +115,6 @@ class MyTensorClass(object):
         return MyTensorClass(self.data * -1)
     
     
-    ## Substraction
     
     ## Multiplication
     

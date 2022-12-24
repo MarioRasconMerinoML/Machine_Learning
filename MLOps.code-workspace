@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../MLOps/code/MLOps"
+		},
+		{
+			"path": "../Machine_Learning_Projects"
+		}
+	],
+	"settings": {
+		"files.autoSave": "onFocusChange"
+	}
+}

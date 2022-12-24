@@ -1,8 +1,8 @@
-# Machine Learning, Deep Learning, IA and more
+# Machine Learning, Deep Learning, AI and more
 
 Tutorials and Notebooks around the usage of Scikit-Learn, Keras, Tensorflow and Pytorch to tackle ML / IA / RL projects
 
-As references to my self-learning I do follow the following books:
+As references to my self-learning I do use the following books:
 
 Refs. 
 - "Hands-On Machine Learning with Scikit-Learn and, Keras and Tensorflow". A. Gerón

@@ -1,8 +1,14 @@
 Basic operations with arrays and tensors in Numpy, Pytorch, Tensorflow and your own Tensor Classes
 
 Refs. 
-"Hands-On Machine Learning with Scikit-Learn and, Keras and Tensorflow". A. Gerón
-"Deep Learning with Python 2nd Ed". F. Chollet
-"Machine Learning with Pytorch and Scikit-Learn". S. Raschka, Y. (Hayden) liu, V. Mirjaili
-"Grokking Deep Learning". A. Trask
+- "Hands-On Machine Learning with Scikit-Learn and, Keras and Tensorflow". A. Gerón
+- "Deep Learning with Python 2nd Ed". F. Chollet
+- "Machine Learning with Pytorch and Scikit-Learn". S. Raschka, Y. (Hayden) liu, V. Mirjaili
+- "Grokking Deep Learning". A. Trask
+
+Tensorflow Documentation:
+https://www.tensorflow.org/guide/data?_gl=1*16k8fhz*_ga*MTc0Mjk2NDk2Mi4xNjcxOTA0MjEy*_ga_W0YLR4190T*MTY3MTk5NzIzNi4yLjEuMTY3MTk5NzIzOS4wLjAuMA..
+
+Pytorch Documentation:
+https://pytorch.org/docs/stable/data.html#dataset-types
 

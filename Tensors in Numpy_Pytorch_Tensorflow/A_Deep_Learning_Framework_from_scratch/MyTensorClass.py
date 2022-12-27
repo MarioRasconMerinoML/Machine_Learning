@@ -120,7 +120,7 @@ class MyTensorClass(object):
     
     ## sum
     
-    ## expand
+    ## expand 
     
     ## Transpose
     

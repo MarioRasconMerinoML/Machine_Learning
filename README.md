@@ -10,6 +10,7 @@ Refs.
 - "Machine Learning with Pytorch and Scikit-Learn". S. Raschka, Y. (Hayden) liu, V. Mirjaili
 - "Grokking Deep Learning". A. Trask
 - "Deep Reinforcement Learning in Action". A. Zai, B. Brown.
+- "Deep Learning with TensorFlow and Keras" - Third Edition. A. Gulli, A. Kapoor,S.Pal
 
 Also the online book "Dive into Deep Learning", provides a great source of knowledge
 https://d2l.ai/

@@ -13,14 +13,18 @@ Refs.
 - "Deep Learning with TensorFlow and Keras" - Third Edition. A. Gulli, A. Kapoor,S.Pal
 
 Also the online book "Dive into Deep Learning", provides a great source of knowledge
+
 https://d2l.ai/
 
 Online trainings like the "Deep Learning Specialization" or the "Machine Learning Specialization" in Coursera are great if you want to boost your knowledge.
 
 Recently I discovered the course from Yann LeCun and Alfredo Canziani at NYY, the links are:
+
 <url> https://atcold.github.io/NYU-DLFL22/ <url>
+  
 <url> https://atcold.github.io/NYU-DLFL22/ <url>
 
 For Graph Neural Networks the Stanford Training from Jure Lescovec is great:
+  
 https://web.stanford.edu/class/cs224w/
 

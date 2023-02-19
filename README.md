@@ -18,7 +18,7 @@ https://d2l.ai/
 
 Online trainings like the "Deep Learning Specialization" or the "Machine Learning Specialization" in Coursera are great if you want to boost your knowledge.
 
-Recently I discovered the course from Yann LeCun and Alfredo Canziani at NYY, the links are:
+Recently I discovered the course from Yann LeCun and Alfredo Canziani at NYU, the links are:
 
 <url> https://atcold.github.io/NYU-DLFL22/ <url>
   

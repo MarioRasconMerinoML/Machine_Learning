@@ -1,0 +1,8 @@
+OPENAI_API_KEY: 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
+
+Organization ID : org-7BX5Wh51WrildDUuZKs1MeZb
+import os
+import openai
+openai.organization = "YOUR_ORG_ID"
+openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.Model.list()

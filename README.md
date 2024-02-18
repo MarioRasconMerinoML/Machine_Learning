@@ -14,6 +14,9 @@ Refs.
 - "Deep Learning with TensorFlow and Keras" - Third Edition. A. Gulli, A. Kapoor,S.Pal
 - 'Effective Pandas' - Matt Harrison
 - 'Data Analysis with Python and PySpark' - Jonathan Rioux.
+- 'Transformers for NLP'. D. Rothman
+- 'Hands on Graph Neural Networks Using Python' M. Labonne
+- 'Modern Time Series Forecasting' M. Joseph
 
 Also the online book "Dive into Deep Learning", provides a great source of knowledge
 

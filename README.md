@@ -5,6 +5,8 @@ Tutorials and Notebooks around the usage of Scikit-Learn, Keras, Tensorflow and 
 As references to my self-learning I do use the following books:
 
 Refs. 
+- "Hands-On Large Language Models". J. Alammar, M. Grootendorst (2025)
+- "Building a Large Language Model from scracth". S. Raschka (2025)
 - "Hands-On Machine Learning with Scikit-Learn and, Keras and Tensorflow". A. Gerón
 - "Deep Learning with Python 2nd Ed". F. Chollet
 - "DEEP LEARNING WITH TENSORFLOW AND KERAS 3rd Ed". Amita Kapoor, Antonio Gulli,Sujit Pal
@@ -28,7 +30,7 @@ Recently I discovered the course from Yann LeCun and Alfredo Canziani at NYU, th
 
 <url> https://atcold.github.io/NYU-DLFL22/ <url>
 
-For Graph Neural Networks the Stanford Training from Jure Lescovec is great:
+For Graph Neural Networks the Stanford Training from Jure Lescovec is a great resource, along with PyGraph library based on Pytorch:
   
 https://web.stanford.edu/class/cs224w/
 
